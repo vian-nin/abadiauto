@@ -1184,5 +1184,5 @@ z-index: 20;
 .ornament-4 {
     position: absolute;
     right: 0;
-
+    z-index:-1;
   }
