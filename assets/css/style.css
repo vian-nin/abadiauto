@@ -1184,8 +1184,13 @@ z-index: 20;*/
 .ornament-2 {
     position: absolute;
     left: 50px;
+<<<<<<< HEAD
     top: 145%;
    z-index: -1;
+=======
+    top: 1200px;
+   z-index: 1;
+>>>>>>> 278a7523d864050b4ef27de532ff45a5f3cd632c
   }
 
 .ornament-3 {
@@ -1200,7 +1205,7 @@ z-index: 20;*/
 .ornament-4 {
     position: absolute;
     right: 0;
-
+    z-index:-1;
   }
 
 .ornament-circle {
